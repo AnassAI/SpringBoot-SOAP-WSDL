@@ -35,7 +35,9 @@
 - Use SOAP clients or tools to test the exposed operations, sending SOAP requests and receiving responses.
 
 This setup allows for the creation of a SOAP-based web service in a Spring Boot application, and clients can interact with it using the generated WSDL for understanding the service contract and data types.
-\n**Screenshots:**
+
+**Screenshots:**
+
 <img src="Pics/2.1.png" alt="Image 2.1">
 <img src="Pics/2.3.png" alt="Image 2.3">
 <img src="Pics/4.png" alt="Image 4">
