@@ -36,15 +36,14 @@
 
 This setup allows for the creation of a SOAP-based web service in a Spring Boot application, and clients can interact with it using the generated WSDL for understanding the service contract and data types.
 **Screenshots:**
-
-    <img src="./Pics/2.1.png" alt="Image 2.1">
-    <img src="./Pics/2.3.png" alt="Image 2.3">
-    <img src="./Pics/4.png" alt="Image 4">
-    <img src="./Pics/1.png" alt="Image 1">
-    <img src="./Pics/2.2.png" alt="Image 2.2">
-    <img src="./Pics/2.png" alt="Image 2">
-    <img src="./Pics/5.png" alt="Image 5">
-    <img src="./Pics/2.4.png" alt="Image 2.4">
-    <img src="./Pics/1.1.png" alt="Image 1.1">
-    <img src="./Pics/3.png" alt="Image 3">
+<img src="Pics/2.1.png" alt="Image 2.1">
+<img src="Pics/2.3.png" alt="Image 2.3">
+<img src="Pics/4.png" alt="Image 4">
+<img src="Pics/1.png" alt="Image 1">
+<img src="Pics/2.2.png" alt="Image 2.2">
+<img src="Pics/2.png" alt="Image 2">
+<img src="Pics/5.png" alt="Image 5">
+<img src="Pics/2.4.png" alt="Image 2.4">
+<img src="Pics/1.1.png" alt="Image 1.1">
+<img src="Pics/3.png" alt="Image 3">
 
